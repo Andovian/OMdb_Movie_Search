@@ -1,0 +1,48 @@
+header {
+    background-color: lightskyblue;
+    border: 2px solid gray;
+    border-radius: 0px 0px 15px 15px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2px solid black;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+
+h5 {
+    color: gray;
+    text-align: center;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid lightgray;
+}
+
+h3 {
+    margin-left: 2rem;
+}
+
+body.container {
+    background-color: lightsteelblue;
+}
+
+#results p {
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid lightgray;
+}
+
+a {
+    padding-left: 1rem;
+    text-decoration: none;
+}
+
+.card {
+    margin-bottom: .5rem;
+    margin-left: .5rem;
+    float: left;
+}
+
+.card-link {
+    padding-bottom: 1rem;
+}
